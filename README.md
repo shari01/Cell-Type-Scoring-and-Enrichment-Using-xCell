@@ -1,7 +1,7 @@
-<h1 align="center">xCell TME Enrichment – Python rpy2 Wrapper</h1>
+<h1 align="center">xCell TME Enrichment</h1>
 
 <p align="center">
-  A Python 3.12 command-line wrapper around the R-based <strong>xCell</strong> pipeline for
+  <strong>xCell</strong> pipeline for
   tumor microenvironment (TME) <strong>cell-type enrichment</strong> profiling.
 </p>
 
