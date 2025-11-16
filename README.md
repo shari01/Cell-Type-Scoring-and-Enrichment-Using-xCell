@@ -303,10 +303,3 @@ pip install -r requirements.txt
 </ul>
 
 <hr />
-
-<h2>License</h2>
-
-<p>
-  Add your preferred open-source license here (e.g. MIT, Apache-2.0) and include the corresponding <code>LICENSE</code> file
-  in the repository. Make sure the chosen license is compatible with the licenses of R packages you are using.
-</p>
